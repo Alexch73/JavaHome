@@ -12,7 +12,8 @@ public enum Planets {
     }
 
     public double getMass() {
-        return mass;
+
+    return mass;
     }
 
     public double getRad() {
@@ -38,3 +39,4 @@ public enum Planets {
                 " радиус орбиты " + oRad;
     }
 }
+//tutlkm
